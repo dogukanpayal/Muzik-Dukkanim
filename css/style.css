@@ -1,0 +1,39 @@
+.background-black{
+    background-color: black;
+}
+.text-align-center{
+    text-align: center;
+}
+.text-color-red{
+    color:red;
+}
+.text-align-right{
+    text-align: right;
+}
+.left-center-text{
+    margin-right: 50px;
+}
+.right-center-text{
+    margin-left: 50px;
+}
+.text-color-purple{
+    color:purple;
+}
+ul{
+    list-style-position:inside;
+}
+.text-color-yellow{
+    color:rgb(85, 85, 0);
+}
+h1{
+    color:red;
+}
+h2{
+    color:purple;
+}
+h3{
+    color:rgb(99, 99, 0)
+}
+ol{
+    list-style-position:inside;
+}
